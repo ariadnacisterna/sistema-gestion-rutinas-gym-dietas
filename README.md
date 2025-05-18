@@ -7,7 +7,7 @@ Este repositorio contiene el documento completo presentado como Trabajo Final In
 ## 📄 Documento principal
 
 Puedes acceder al documento completo aquí:  
-[📥 Descargar PDF](./Sistema_Gestion_Rutinas_Gimnasio_Dietas_Analisis_Diseno_2023.pdf)
+[Ver documentación (PDF)](https://github.com/ariadnacisterna/sistema-gestion-rutinas-gym-dietas/blob/main/Sistema%20de%20Gesti%C3%B3n%20de%20Rutinas%20de%20Gimnasio%20y%20Dietas.pdf)
 
 ## Contenido
 
